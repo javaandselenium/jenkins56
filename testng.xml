@@ -6,6 +6,7 @@
       <class name="aaa.Test0"/>
       <class name="aaa.Test1"/>
       <class name="aaa.Test2"/>
+      <class name="aaa.Test3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
